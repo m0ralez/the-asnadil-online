@@ -4,7 +4,7 @@
 **Current Phase:** Foundation / Фаза: Фундамент  
 **Overall Progress:** 40%  
 **Next Milestone:** Combat & Magic System / Боевая и магическая система  
-**Target Alpha Release:** Q2 2024 / Целевой альфа-релиз: Q2 2024
+**Target Alpha Release:** Q1 2026 / Целевой альфа-релиз: Q1 2026
 
 ---
 
@@ -30,7 +30,7 @@
 
 ---
 
-## 🎯 Current Sprint (Q1 2024) - COMBAT & MAGIC
+## 🎯 Current Sprint (Q4 2024) - COMBAT & MAGIC
 
 ### ⚔️ Combat System / Боевая система
 | Task ID | Feature | Status | Priority | Labels |
@@ -46,7 +46,7 @@
 
 ---
 
-## 🏗️ Next Phase (Q2 2024) - WORLD EXPANSION
+## 🏗️ Next Phase (Q1 2026) - WORLD EXPANSION
 
 ### 🌍 World Content / Контент мира
 | Task ID | Feature | Status | Priority | Labels |
@@ -62,7 +62,7 @@
 
 ---
 
-## 👥 Social Systems (Q3 2024) - MULTIPLAYER INTERACTION
+## 👥 Social Systems (Q2 2026) - MULTIPLAYER INTERACTION
 
 ### 🤝 Social Features / Социальные функции
 | Task ID | Feature | Status | Priority | Labels |
@@ -78,7 +78,7 @@
 
 ---
 
-## 🎨 Polish & Optimization (Q4 2024)
+## 🎨 Polish & Optimization (Q4 2026)
 
 ### ⚡ Performance / Производительность
 | Task ID | Feature | Status | Priority | Labels |
@@ -111,8 +111,8 @@
 
 ## 🔄 Maintenance / Обслуживание
 
-- **Last Updated:** December 2023 / Последнее обновление: Декабрь 2023
-- **Next Update:** January 2024 / Следующее обновление: Январь 2024
+- **Last Updated:** August 2025 / Последнее обновление: Август 2025
+- **Next Update:** January 2026 / Следующее обновление: Январь 2026
 - **Update Frequency:** Monthly / Частота обновлений: Ежемесячно
 
 *For detailed task tracking and current sprint progress, visit our [Projects Board](https://github.com/your-username/the-asnadil-online/projects). / Для детального отслеживания задач и текущего спринта посетите нашу [Доску проектов](https://github.com/your-username/the-asnadil-online/projects).*
@@ -120,6 +120,6 @@
 ---
 
 **📅 Next Major Milestone:** Combat & Magic Completion / Следующий этап: Завершение боевой и магической системы  
-**🎯 Alpha Target:** Q2 2024 / Цель альфа-версии: Q2 2024  
-**🚀 Beta Target:** Q3 2024 / Цель бета-версии: Q3 2024  
-**💫 Release Candidate:** Q4 2024 / Релиз-кандидат: Q4 2024
+**🎯 Alpha Target:** Q1 2026 / Цель альфа-версии: Q1 2026  
+**🚀 Beta Target:** Q3 2026 / Цель бета-версии: Q3 2026  
+**💫 Release Candidate:** Q4 2027 / Релиз-кандидат: Q4 2027
